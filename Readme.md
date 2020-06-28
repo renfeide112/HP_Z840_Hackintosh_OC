@@ -1,13 +1,14 @@
 # HP_Z840_Hachintosh_OC
-## 惠普Z840工作站 
-## E5-2678v3 * 2
-## 64GB 2133 RAM
-## NV K6000 12G 
-## 海康威视 C2000PRO 1TB 
-## 三星PM981 512GB
-## MacOS 10.15.5 
-## BIOS 最新版本 
-## OC v0.6.0
+## 配置
+    惠普Z840工作站
+    E5-2678v3 * 2 
+    64GB 2133 DDR4 ECC RAM  
+    NV K6000 12G 
+    海康威视 C2000PRO 1TB 
+    三星PM981 512GB
+    MacOS 10.15.5 
+    BIOS 最新版本 
+    OC v0.6.0
 
 ## 目前工作正常
     WIN10 全部正常
