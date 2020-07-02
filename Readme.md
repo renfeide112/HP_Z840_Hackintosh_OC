@@ -7,7 +7,7 @@
     海康威视 C2000PRO 1TB 
     三星PM981 512GB
     MacOS 10.15.5 
-    BIOS 最新版本 
+    BIOS 最新版本  02.50 Rev.A
     OC v0.6.0
 
 ## 目前工作正常
