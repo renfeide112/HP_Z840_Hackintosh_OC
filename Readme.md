@@ -1,20 +1,21 @@
 # HP_Z840_Hachintosh_OC
 ## 配置
     惠普Z840工作站
-    E5-2678v3 * 2 
+    E5-2643v3 * 2 
     64GB 2133 DDR4 ECC RAM  
     NVIDIA Quadro K6000
     NVIDIA GeForce GTX 560
     海康威视 C2000PRO 1TB 
-    三星PM981 512GB
-    MacOS 10.15.6 (19G73) 
+    LSI RAID 卡工作正常
+    MacOS 11.0.1 (20B29)
     BIOS 最新版本  02.50 Rev.A
-    OC v0.6.1
+    OC v0.6.4
 
 ## 目前工作正常
     WIN10 全部正常
     MACOS 10.15.5 工作正常
     MACOS 10.13.6 安装NV WEB DRIVER 工作正常
+    MACOS 11.0.1 
 ## 已知问题
     CFG-LOCK 未解锁 
     CPU 可以变频
